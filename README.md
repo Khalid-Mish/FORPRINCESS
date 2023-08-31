@@ -1,5 +1,5 @@
 ![Alt text](Photos/Photo1.png)
-Members: Jake | Ziyu | Zeyun | Mish | Xueqing
+Members: Jake | Ziyu | Zeyun | Khalid (Mish) | Xueqing
 
 Game demo: https://youtu.be/jFWzhxLPpzk
 
@@ -209,6 +209,6 @@ Provide a table of everyone's contribution, which may be used to weight individu
 | Jake Kumra | I participated in and facilitated team discussions, I also implemented the platform mechanics including the disappearing platform challenge, as well as parts of the user interface. I also had a prominent role in writing the report including the introduction, requirements, design, and process sections. I also recorded the video demo for the project. |
 | Ziyu | Participated in team discussions. Completed all game interface designs and code implementations, achieved dynamic and musical effects, and tried to ensure a unified artistic style by drawing parts of elements myself. Displayed and implemented the scoring module and game settings adjustment module. Designed and implemented the Fire enemy NPC in the game. Set up and implement all the user interface state machine and collaborated to implement game operation state machine. Contributed to writing like parts of the challenges, parts of the evaluations... |
 | Zeyun Zhao | Participated in team discussions, completed the creation and application of the barrels section, fixed some bugs in player running like player.isonladder, provided ideas for checking if the player is on the platform, completed the implementation of the player character image, collaborated to implement game operation state machine and assemble the game classes, and completed the evaluation section of the report. |
-| Mish Al-Roubaie | Suggested the initial Donkey Kong idea for the game's inspiration during a team discussion. Worked primarily on the player class, ensuring that in game physics were working appropriately and the game controls were responsive and satisfying. Integrated the abilities for the player to move, jump and climb. |
+| Khalid (Mish) Al-Roubaie | Suggested the initial Donkey Kong idea for the game's inspiration during a team discussion. Worked primarily on the player class, ensuring that in game physics were working appropriately and the game controls were responsive and satisfying. Integrated the abilities for the player to move, jump and climb. |
 |Liu Xueqing | In the team discussion, I clarified the categories and some attributes and methods required to implement the game. Created the ladder classes, and ensured its coordination with player and platform classes. Summarized the game design process and completed the conclusion section in the report.
 

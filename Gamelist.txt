@@ -1,0 +1,8 @@
+1. Mario
+2. Battle City
+3. Tetris
+4. Pac-man
+5. Pong
+6. Snake
+7. Minesweaper 
+8. Flappy bird

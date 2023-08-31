@@ -1,0 +1,53 @@
+Object classes for the game state: 
+
+- Player:
+    Methods:
+    - Get direction
+    - Set direction
+    - Movement when arrow key is pressed
+    - Jump, boolean, when true player moves up
+    - Set dead, boolean, set to true if player coordinate is the same as a barrel
+    - 
+
+
+- Donkey Kong:
+  Enemy just needs to spawn the barrels
+
+- Barrels:
+  Object that gets instantiated many times
+  
+  Methods:
+  - Spawn barrel
+  - Change direction
+  - Change platform
+  - Despawn barrel
+  - 
+
+- Platforms/disappearing platforms:
+
+  Methods: 
+  - 
+
+
+- Ladders
+  Object that gets instantiated many times and has rules on where it can spawn?
+
+- The Princess
+  Has positional coordinates that when the player object reaches these coordinates, the game ends.
+  
+  Methods:
+  - Round win
+  
+ 
+
+
+
+Attributes:
+
+- X/Y Coordinate, necessary for basically every object in the game.
+- Size
+- Physical/not physical, this is for the platforms when they disappear they become not physical.
+- Jump attribute for the player, key pressed/released = one jump?
+- Direction, for the player object and the barrels
+- Speed, for the moving objects, such as the barrels and the player.
+-  
